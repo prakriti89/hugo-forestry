@@ -1,0 +1,47 @@
+[read_more]
+other = "Les mer"
+
+[copyright]
+other = "Copyright"
+
+[all_rights]
+other = "Alle rettigheter forbeholdt"
+
+[share_on]
+other = "Del på"
+
+[featured_posts]
+other = "Utvalgte innlegg"
+
+[recent_posts]
+other = "Siste innlegg"
+
+[404_title]
+other = "Uff da!"
+
+[could_not_find]
+other = "Vi fant ikke siden du leter etter"
+
+[go_back]
+other = "Tilbake"
+
+[translations]
+other = "Oversettelser"
+
+[categories]
+other = "Kategorier"
+
+[tags]
+other = "Tag"
+
+[series]
+other = "Serier"
+
+[all_categories]
+other = "Alle Kategorier"
+
+[all_tags]
+other = "Alle Tag"
+
+[all_series]
+other = "Alle Serier"

@@ -1,0 +1,15 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hugo-clarity"
+DefaultContentLanguage = "no"
+
+[params]
+  numberOfTagsShown = 14
+  mainSections = ["post"]
+  author = "Prakriti Tiwari"
+  introDescription= "Web utvikler"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
