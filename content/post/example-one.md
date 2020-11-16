@@ -10,7 +10,7 @@ categories:
 - Lorem
 tags:
 - salg
-thumbnail: "/images/1.jpg"
+thumbnail: "/images/2.jpg"
 draft: true
 
 ---
